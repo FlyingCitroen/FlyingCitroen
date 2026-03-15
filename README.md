@@ -1,40 +1,47 @@
-# 👋 Hi, I'm Shiyan Jiang (蒋诗言)
+# 👋 Hi, I'm Shiyan Jiang
 
-### 📊 Game Designer & Data Analyst
-*Merging systemic game logic with data-driven insights.*
+### 📊 Data Analyst | Research Specialist
+*Passionate about transforming complex datasets into actionable insights through quantitative research and statistical modeling.*
 
 ---
 
 ## 🚀 About Me
-- 🎓 **MA in Digital Humanities** | University of Groningen (Netherlands)
-- 🎮 **Senior Game Designer** | 6+ years experience (Yoozoo Games)
-- 📍 **Currently based in Tokyo**, exploring the intersection of data, culture, and play.
-- 🛠️ Deeply interested in **Data Analysis**, **NLP**, and **Sports/Gaming Analytics**.
+- 🎓 **MA in Communication and Information Studies (Research Track)** | University of Groningen, Netherlands. 
+- 🛠️ **Background**: My transition into Data Analysis is driven by a deep interest in **Computational Research** and **Systemic Logic**. I specialize in bridging the gap between raw, unstructured data and strategic narratives.
+- 🎯 **Focus**: Currently seeking Junior/Entry-level Data Analyst roles where I can apply my skills in **Python**, **NLP**, and **Data Visualization**.
 
 ---
 
 ## 🛠️ Tech Stack
-- **Languages:** Python (Pandas, NumPy, Matplotlib, Seaborn), SQL (Learning), C, Luau
-- **Tools:** Jupyter Notebook, Git, Axure, Unreal Engine (Blueprints), Figma
-- **Focus:** Exploratory Data Analysis (EDA), Sentiment Analysis, System Balancing
+- **Data Analysis**: Python (Pandas, NumPy), SQL (Basic to Intermediate), ETL
+- **Visualization**: Matplotlib, Seaborn, Plotly
+- **NLP & Research**: NLTK, Sentiment Analysis, Text Mining, Quantitative Content Analysis
+- **Tools**: Jupyter Notebooks, Git, VS Code, Figma
 
 ---
 
-## 📂 Featured Projects
+## 📂 Key Data Projects
 
-### ⚽ [Cross-League Performance Study: Sandro Tonali](链接到你的项目仓库)
-- **Objective:** Analyzed the tactical adaptation of Tonali moving from Serie A to the Premier League.
-- **Key Tech:** Python, Pandas, EDA.
-- **Insight:** Identified how tactical roles shift between different league intensities.
+### 🎓 [Deciphering the 1990s Gaming Industry: A Multimodal Study](Link_to_your_Thesis_Repo)
+**Graduate Thesis Project | Lead Researcher**
+- **Challenge**: Analyzed large-scale, cross-lingual datasets (magazines, reader correspondence, imagery) from the US, China, and the Netherlands.
+- **Approach**: Built a **Python pipeline** to handle data cleaning and **Sentiment Analysis** to track shifts in public discourse over a decade.
+- **Outcome**: Successfully quantified the relationship between hardware transitions (2D to 3D) and global player satisfaction metrics.
 
-### 🐦 [US Election Rhetoric: Twitter Sentiment Analysis](链接到你的项目仓库)
-- **Objective:** Comparative NLP study on political discourse using 10k+ tweets.
-- **Key Tech:** Python, NLTK, Sentiment Analysis.
-- **Insight:** Visualized emotional patterns and keyword frequency in social media campaigning.
+### ⚽ [Midfielder Performance Analysis: A Case Study on Tactical Adaptation](Link_to_your_Tonali_Repo)
+**Independent Data Project**
+- **Objective**: Evaluated performance KPI shifts for elite players transitioning between different league intensities (Serie A vs. EPL).
+- **Technical**: Conducted **Exploratory Data Analysis (EDA)** using Pandas to identify key drivers of tactical success.
+- **Insight**: Visualized the trade-offs in defensive vs. offensive output, providing data-backed scouting profiles.
+
+### 🐦 [US Election Rhetoric: Sentiment & Semantic Modeling](Link_to_your_Twitter_Repo)
+**NLP Implementation**
+- **Methodology**: Applied **Natural Language Processing** techniques to a dataset of 10k+ tweets to identify emotional patterns in social media engagement.
+- **Visuals**: Created distribution maps of keyword frequencies and sentiment polarity scores using Seaborn.
 
 ---
 
 ## 📫 Connect with me:
-- 📧 [你的邮箱]
-- 💼 [LinkedIn Profile](你的链接)
-- ✍️ [Portfolio / Notion](你的Notion链接)
+- 📧 Email: shiyan.jiang@outlook.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/shiyan-jiang-612561248/
+
