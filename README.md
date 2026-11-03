@@ -22,19 +22,19 @@
 
 ## 📂 Key Data Projects
 
-### ⚽ [Chemistry XI: Match Event Analysis Pipeline]([LINK_TO_CHEMISTRY_XI_REPO](https://github.com/FlyingCitroen/chemistry-xi))
+### ⚽ [Chemistry XI: Match Event Analysis Pipeline](https://github.com/FlyingCitroen/chemistry-xi)
 **Microsoft × Premier League Hackathon | Python, Streamlit, pytest**
 - **Objective**: Replay time-ordered match events and flag player pairs whose pass success consistently beats a team baseline.
 - **Approach**: Python pipeline with a deterministic rule engine, Beta smoothing over a rolling 10-pass window, five link states, JSON overlay output and a Streamlit app. 33 pytest tests. LLM narration via the GitHub Models API, with a verifier that rejects any number or player name the engine did not produce.
 - **Note**: Uses simulated, partly scripted data. It validates the pipeline only and makes no claim about real football.
 
-### 🎓 [The Evolution of Gaming Aesthetics and Community in the 1990s]([Link_to_your_Thesis_Repo](https://github.com/FlyingCitroen/EGM_Analysis))
+### 🎓 [The Evolution of Gaming Aesthetics and Community in the 1990s](https://github.com/FlyingCitroen/EGM_Analysis)
 **Graduate Thesis Project | Electronic Gaming Monthly, 1990–1999**
 - **Challenge**: Collected all editorials and game reviews from 120 magazine issues through web scraping and manual extraction.
 - **Approach**: Python topic modeling and sentiment analysis on the editorials, with heat maps and word clouds; review scores analyzed by year and platform.
 - **Outcome**: Traced how editorial themes, sentiment and review scores shifted over the decade, including around the 2D-to-3D console transition.
 
-### 🐦 [US Election Tweets: Sentiment & Keyword Analysis]([Link_to_your_Twitter_Repo](https://github.com/FlyingCitroen/AnalysingData/tree/main/A3))
+### 🐦 [US Election Tweets: Sentiment & Keyword Analysis](https://github.com/FlyingCitroen/AnalysingData/tree/main/A3)
 **Course Project | Python, NLP, Seaborn**
 - Analyzed 10k+ tweets about the US election with NLP to identify emotional patterns in social media engagement.
 - Visualized keyword frequencies and sentiment polarity score distributions with Seaborn.
