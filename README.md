@@ -6,9 +6,9 @@
 ---
 
 ## 🚀 About Me
-- 🎓 **MA in Communication and Information Studies** | University of Groningen, Netherlands
+- 🎓 **Master in Communication and Information Studies** | University of Groningen, Netherlands
 - 🎮 **Background**: 4+ years in the game industry, working daily with live-ops on retention, DAU, churn and monetization data.
-- 🎯 **Focus**: Junior data roles where I can apply **Python**, **SQL**, **R** and **data visualization**. Willing to relocate to the Netherlands.
+- 🎯 **Focus**:  **Python**, **SQL**, **R** and **data visualization**. 
 
 ---
 
@@ -34,11 +34,7 @@
 - **Approach**: Python topic modeling and sentiment analysis on the editorials, with heat maps and word clouds; review scores analyzed by year and platform.
 - **Outcome**: Traced how editorial themes, sentiment and review scores shifted over the decade, including around the 2D-to-3D console transition.
 
-### 🐦 [US Election Tweets: Sentiment & Keyword Analysis](https://github.com/FlyingCitroen/AnalysingData/tree/main/A3)
-**Course Project | Python, NLP, Seaborn**
-- Analyzed 10k+ tweets about the US election with NLP to identify emotional patterns in social media engagement.
-- Visualized keyword frequencies and sentiment polarity score distributions with Seaborn.
-- 
+
 ---
 
 ## 📫 Connect with me:
