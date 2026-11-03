@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Shiyan Jiang
 
 ### 📊 Python · SQL · R · Data Analysis
-*Turning raw, messy data into clear insights, with a background in live-service game design and a master's in computational methods.*
+*Building reliable data workflows with Python, SQL and R. Combining a background in live-service game operations with a master's in computational methods and hands-on experience in data pipelines, automated testing and analysis.*
 
 ---
 
