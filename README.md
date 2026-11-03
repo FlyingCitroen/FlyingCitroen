@@ -1,47 +1,45 @@
 # 👋 Hi, I'm Shiyan Jiang
 
-### 📊 Data Analyst | Research Specialist
-*Passionate about transforming complex datasets into actionable insights through quantitative research and statistical modeling.*
+### 📊 Python · SQL · R · Data Analysis
+*Turning raw, messy data into clear insights, with a background in live-service game design and a master's in computational methods.*
 
 ---
 
 ## 🚀 About Me
-- 🎓 **MA in Communication and Information Studies (Research Track)** | University of Groningen, Netherlands. 
-- 🛠️ **Background**: My transition into Data Analysis is driven by a deep interest in **Computational Research** and **Systemic Logic**. I specialize in bridging the gap between raw, unstructured data and strategic narratives.
-- 🎯 **Focus**: Currently seeking Junior/Entry-level Data Analyst roles where I can apply my skills in **Python**, **NLP**, and **Data Visualization**.
+- 🎓 **MA in Communication and Information Studies** | University of Groningen, Netherlands
+- 🎮 **Background**: 4+ years in the game industry, working daily with live-ops on retention, DAU, churn and monetization data.
+- 🎯 **Focus**: Junior data roles where I can apply **Python**, **SQL**, **R** and **data visualization**. Willing to relocate to the Netherlands.
 
 ---
 
 ## 🛠️ Tech Stack
-- **Data Analysis**: Python (Pandas, NumPy), SQL (Basic to Intermediate), ETL
-- **Visualization**: Matplotlib, Seaborn, Plotly
-- **NLP & Research**: NLTK, Sentiment Analysis, Text Mining, Quantitative Content Analysis
-- **Tools**: Jupyter Notebooks, Git, VS Code, Figma
+- **Data Analysis**: Python (Pandas, NumPy), SQL, R, ETL
+- **Visualization**: Matplotlib, Seaborn, Plotly, Streamlit
+- **NLP & Research**: NLTK, Sentiment Analysis, Topic Modeling, Quantitative Content Analysis
+- **Tools**: Jupyter Notebooks, Git, pytest, VS Code, Figma
 
 ---
 
 ## 📂 Key Data Projects
 
-### 🎓 [Deciphering the 1990s Gaming Industry: A Multimodal Study](Link_to_your_Thesis_Repo)
-**Graduate Thesis Project | Lead Researcher**
-- **Challenge**: Analyzed large-scale, cross-lingual datasets (magazines, reader correspondence, imagery) from the US, China, and the Netherlands.
-- **Approach**: Built a **Python pipeline** to handle data cleaning and **Sentiment Analysis** to track shifts in public discourse over a decade.
-- **Outcome**: Successfully quantified the relationship between hardware transitions (2D to 3D) and global player satisfaction metrics.
+### ⚽ [Chemistry XI: Match Event Analysis Pipeline]([LINK_TO_CHEMISTRY_XI_REPO](https://github.com/FlyingCitroen/chemistry-xi))
+**Microsoft × Premier League Hackathon | Python, Streamlit, pytest**
+- **Objective**: Replay time-ordered match events and flag player pairs whose pass success consistently beats a team baseline.
+- **Approach**: Python pipeline with a deterministic rule engine, Beta smoothing over a rolling 10-pass window, five link states, JSON overlay output and a Streamlit app. 33 pytest tests. LLM narration via the GitHub Models API, with a verifier that rejects any number or player name the engine did not produce.
+- **Note**: Uses simulated, partly scripted data. It validates the pipeline only and makes no claim about real football.
 
-### ⚽ [Midfielder Performance Analysis: A Case Study on Tactical Adaptation](Link_to_your_Tonali_Repo)
-**Independent Data Project**
-- **Objective**: Evaluated performance KPI shifts for elite players transitioning between different league intensities (Serie A vs. EPL).
-- **Technical**: Conducted **Exploratory Data Analysis (EDA)** using Pandas to identify key drivers of tactical success.
-- **Insight**: Visualized the trade-offs in defensive vs. offensive output, providing data-backed scouting profiles.
+### 🎓 [The Evolution of Gaming Aesthetics and Community in the 1990s]([Link_to_your_Thesis_Repo](https://github.com/FlyingCitroen/EGM_Analysis))
+**Graduate Thesis Project | Electronic Gaming Monthly, 1990–1999**
+- **Challenge**: Collected all editorials and game reviews from 120 magazine issues through web scraping and manual extraction.
+- **Approach**: Python topic modeling and sentiment analysis on the editorials, with heat maps and word clouds; review scores analyzed by year and platform.
+- **Outcome**: Traced how editorial themes, sentiment and review scores shifted over the decade, including around the 2D-to-3D console transition.
 
-### 🐦 [US Election Rhetoric: Sentiment & Semantic Modeling](Link_to_your_Twitter_Repo)
-**NLP Implementation**
-- **Methodology**: Applied **Natural Language Processing** techniques to a dataset of 10k+ tweets to identify emotional patterns in social media engagement.
-- **Visuals**: Created distribution maps of keyword frequencies and sentiment polarity scores using Seaborn.
-
+### 🐦 [US Election Tweets: Sentiment & Keyword Analysis]([Link_to_your_Twitter_Repo](https://github.com/FlyingCitroen/AnalysingData/tree/main/A3))
+**Course Project | Python, NLP, Seaborn**
+- Analyzed 10k+ tweets about the US election with NLP to identify emotional patterns in social media engagement.
+- Visualized keyword frequencies and sentiment polarity score distributions with Seaborn.
+- 
 ---
 
 ## 📫 Connect with me:
 - 📧 Email: shiyan.jiang@outlook.com
-- 🔗 LinkedIn: https://www.linkedin.com/in/shiyan-jiang-612561248/
-
