@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 - 🎓 **Master in Communication and Information Studies** | University of Groningen, Netherlands
-- 🎮 **Background**: 4+ years in the game industry, working daily with live-ops on retention, DAU, churn and monetization data.
+- 🎮 **Background**: 4+ years in the game industry. Partnered with live-ops to turn retention, DAU, churn and monetization reports into design decisions, and ran server-segmented A/B tests on bundles and events.
 - 🎯 **Focus**:  **Python**, **SQL**, **R** and **data visualization**. 
 
 ---
